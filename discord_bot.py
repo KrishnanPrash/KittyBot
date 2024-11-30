@@ -1,0 +1,1 @@
+# TODO: create functionality in discord through a bot
